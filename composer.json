@@ -1,0 +1,16 @@
+{
+    "name": "iiispikeriii/yii2-moizvonki",
+    "description": "Yii2 moizvonki client for API",
+    "type": "extension",
+    "license": "GPL-v3",
+    "support": {
+        "issues": "https://github.com/IIISpikerIII/yii2-moizvonki/issues",
+        "source": "https://github.com/IIISpikerIII/yii2-moizvonki"
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": ">=2.0.0",
+        "yiisoft/yii2-httpclient": "^2.0.0"
+    }
+}
