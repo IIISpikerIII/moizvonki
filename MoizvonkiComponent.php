@@ -1,6 +1,6 @@
 <?php
 
-namespace common\components;
+namespace iiispikeriii\moizvonki;
 
 use Yii;
 use yii\base\Component;

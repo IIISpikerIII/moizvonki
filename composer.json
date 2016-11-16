@@ -22,7 +22,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "moizvonki\\": ""
+            "iiispikeriii\\moizvonki\\": ""
         }
     }
 }
