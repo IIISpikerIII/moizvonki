@@ -1,3 +1,9 @@
+# Установка #
+
+```
+composer require iiispikeriii/yii2-moizvonki:"@dev"
+```
+
 # Настройка компонента для работы с API MoiZvonki #
 
 Для работы необходимо добавить в конфиг компонент
@@ -6,7 +12,7 @@
 'components' => [    
     ...    
     'moizvonki' => [    
-        'class' => 'common\components\MoizvonkiComponent',    
+        'class' => 'iiispikeriii\moizvonki\MoizvonkiComponent',    
         'app_name' => 'xxxxxxx',    
         'user_name' => 'xxx@xxx.xx',    
         'api_url' => 'xxx.moizvonki.ru',    
