@@ -1,6 +1,7 @@
 {
     "name": "iiispikeriii/yii2-moizvonki",
     "description": "Yii2 moizvonki client for API",
+    "keywords": ["yii2", "moizvonki"],
     "type": "extension",
     "license": "GPL-v3",
     "support": {
@@ -12,5 +13,16 @@
         "php": ">=5.4.0",
         "yiisoft/yii2": ">=2.0.0",
         "yiisoft/yii2-httpclient": "^2.0.0"
+    },
+    "authors": [
+        {
+            "name": "Nikita Zorin",
+            "email": "nikozor@bk.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "moizvonki\\": ""
+        }
     }
 }
